@@ -1,0 +1,16 @@
+ekf.c:15:6:alloc_filter	16	static
+ekf.c:46:6:free_filter	16	static
+ekf.c:69:6:updateJA_CTRA	80	static
+ekf.c:121:6:calculate_J_CTRA	544	static
+ekf.c:175:6:updateJA_CTRV	56	static
+ekf.c:206:6:calculate_J_CTRV	464	static
+ekf.c:259:6:updateJA_CHCV	48	static
+ekf.c:279:6:calculate_J_CHCV	304	static
+ekf.c:300:6:predict	16	static
+ekf.c:311:6:computeHx	16	static
+ekf.c:329:6:computeJH	256	static
+ekf.c:367:6:update	152	static
+ekf.c:480:6:step	32	static
+ekf.c:495:6:updateQ	384	static
+ekf.c:519:6:updateR	288	static
+ekf.c:538:6:setPInit	296	static

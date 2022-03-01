@@ -1,0 +1,17 @@
+ili9488_gfx.c:32:11:pgm_read_glyph_ptr	16	static
+ili9488_gfx.c:37:10:pgm_read_bitmap_ptr	16	static
+ili9488_gfx.c:42:10:byte_reverse	24	static
+ili9488_gfx.c:49:6:ILI9341_set_adafruit_font	32	static
+ili9488_gfx.c:73:6:ILI9341_Draw_Hollow_Circle	48	static
+ili9488_gfx.c:108:6:ILI9341_Draw_Filled_Circle	56	static
+ili9488_gfx.c:145:6:ILI9341_Draw_Hollow_Rectangle_Coord	40	static
+ili9488_gfx.c:195:6:ILI9341_Draw_Filled_Rectangle_Coord	48	static
+ili9488_gfx.c:241:6:ILI9341_DrawChar	64	static
+ili9488_gfx.c:272:6:ILI9341_DrawText	48	static
+ili9488_gfx.c:354:6:ILI9341_Draw_CharFont	56	static
+ili9488_gfx.c:406:6:ILI9341_Draw_Font_Background	56	static
+ili9488_gfx.c:428:6:ILI9341_Draw_OnText_Font_Background	48	static
+ili9488_gfx.c:441:6:ILI9341_Draw_TextFont	48	static
+ili9488_gfx.c:453:6:ILI9341_DrawNumber	64	static
+ili9488_gfx.c:492:6:ILI9341_DrawNumberText	56	static
+ili9488_gfx.c:539:6:ILI9341_Draw_Image	40	static

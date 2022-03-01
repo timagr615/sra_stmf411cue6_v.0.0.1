@@ -1,0 +1,16 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+micros.h:13:22:DWT_Init	4	static
+main.c:100:6:HAL_SPI_TxCpltCallback	16	static
+main.c:110:5:main	48	static
+main.c:376:6:SystemClock_Config	88	static
+main.c:420:13:MX_ADC1_Init	24	static
+main.c:478:13:MX_I2C1_Init	8	static
+main.c:512:13:MX_SDIO_SD_Init	8	static
+main.c:548:13:MX_SPI1_Init	8	static
+main.c:586:13:MX_USART2_UART_Init	8	static
+main.c:619:13:MX_USB_OTG_FS_PCD_Init	8	static
+main.c:652:13:MX_DMA_Init	16	static
+main.c:673:13:MX_GPIO_Init	48	static
+main.c:716:5:__io_putchar	16	static
+main.c:721:6:HAL_UART_RxCpltCallback	16	static
+main.c:734:6:Error_Handler	8	static,ignoring_inline_asm

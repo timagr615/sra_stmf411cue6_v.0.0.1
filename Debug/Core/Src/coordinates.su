@@ -1,0 +1,8 @@
+coordinates.c:19:15:geoDistanceMeters	104	static
+coordinates.c:36:8:CoordLongitudeToMeters	40	static
+coordinates.c:42:8:CoordLatitudeToMeters	40	static
+coordinates.c:48:17:getPointAhead	184	static
+coordinates.c:70:17:pointPlusDistanceEast	64	static
+coordinates.c:74:17:pointPlusDistanceNorth	64	static
+coordinates.c:78:10:CoordMetersToGeopoint	112	static
+coordinates.c:86:8:CoordDistanceBetweenPointsMeters	48	static

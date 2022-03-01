@@ -1,0 +1,7 @@
+fusion.c:15:6:dataPointInit	16	static
+fusion.c:44:6:getRawData	80	static
+fusion.c:62:6:setData	104	static
+fusion.c:119:6:InitFusion	24	static
+fusion.c:138:6:startFusion	16	static
+fusion.c:145:6:computeFusion	112	static
+fusion.c:160:6:processFusion	96	static

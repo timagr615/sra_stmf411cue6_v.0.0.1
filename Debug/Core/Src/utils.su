@@ -1,0 +1,3 @@
+utils.c:12:6:print_float	16	static
+utils.c:19:6:print_mat	24	static
+utils.c:25:6:assert_fail	216	static
